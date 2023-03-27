@@ -1,5 +1,5 @@
 # GitHub URL
-https://github.com/KEvans254/serverless-application-udacity
+https://github.com/BrianOuko/alx-cd-serverless
 
 # Serverless TODO
 
